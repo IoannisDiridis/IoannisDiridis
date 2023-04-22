@@ -6,6 +6,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JohnNtirintis&theme=2077)
 </div>
 
-
+<a href="https://www.linkedin.com/in/ioannis-panagiotis-ntirintis/" target="_blank"> 
+    Linkedin
+</a>
 
 
