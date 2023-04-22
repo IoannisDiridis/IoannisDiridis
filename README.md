@@ -8,7 +8,7 @@
 
 <h1>Socials</h1>
 
-<a href="https://www.linkedin.com/in/ioannis-panagiotis-ntirintis/" rel="nofollow"> 
+<a href="https://www.linkedin.com/in/ioannis-panagiotis-ntirintis/" target="_blank"> 
     Linkedin
 </a>
 
