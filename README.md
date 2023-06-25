@@ -6,7 +6,7 @@ Currently training in full-stack software development at the Athens University o
 
 Eager to contribute to meaningful projects, solve complex problems, and collaborate with other professionals in the software development field.
 
-<!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JohnNtirintis)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JohnNtirintis)](https://github.com/anuraghazra/github-readme-stats) -->
     
 [![GitHub Streak](https://streak-stats.demolab.com?user=JohnNtirintis&theme=dark)](https://git.io/streak-stats)
 
