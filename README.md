@@ -1,6 +1,6 @@
 <div align="center">
 
-I'm a Junior Software Developer leveraging skills in Python, Java, C, C#, SQL/MySQL, HTML/CSS, JavaScript, Bootstrap, Flask and Jinja to build effective software solutions. Transitioned into the tech industry in 2022 with transferrable skills developed over four years of work in catering & hospitality. Passionate about problem-solving, programming, and keen on AI, mathematics, and space sciences.
+I'm a Junior Software Developer leveraging skills in Python, Java, C, C#, SQL, HTML/CSS, JavaScript, Bootstrap, Flask and Jinja to build effective software solutions. Transitioned into the tech industry in 2022 with transferrable skills developed over four years of work in catering & hospitality. Passionate about problem-solving, programming, and keen on AI, mathematics, and space sciences.
 
 Currently training in full-stack software development at the Athens University of Economics and Business (AUEB), and committed to lifelong learning. Enriching my knowledge through courses from META, Google, Harvard, and the University of Duke. Interests outside of coding include Philosophy, History, Finance, Motorsports, Sim Racing, martial arts & playing the guitar.
 
