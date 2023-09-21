@@ -21,6 +21,10 @@ Eager to contribute to meaningful projects, solve complex problems, and collabor
 <div align="center">
 <a href="https://www.linkedin.com/in/ioannis-panagiotis-ntirintis/" target="_blank"> 
     Linkedin
+</a> 
+    -
+    <a href="https://medium.com/@JohnNtirintis" target="_blank"> 
+     Medium
 </a>
 </div>
 
