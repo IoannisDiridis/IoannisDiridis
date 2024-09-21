@@ -2,16 +2,9 @@
 ## About me:
 
 - 💼 I'm currently working as a Junior .NET Software Engineer at Inform, where I specialize in back-end development using technologies like C#, VB.NET, SQL, .NET, and ASP.NET.
-
-## Interests:
-- Beyond coding, I'm interested in Philosophy, History, and Finance.
+- I'm interested in contributing to open source projects.
+- Beyond coding, I like Philosophy, History, and Finance.
 - A huge fan of Motorsports and Sim Racing.
-- Practice martial arts and unwind by playing the guitar.
-
-## Looking Forward:
-- Eager to contribute to meaningful projects that challenge me and allow me to grow.
-- Keen on collaborating with other professionals in the software development field and contributing to back-end solutions.
-- Always open to discussing new ideas and opportunities in technology.
 
 <!--[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JohnNtirintis)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center"> 
