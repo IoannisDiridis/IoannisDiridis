@@ -14,11 +14,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JohnNtirintis&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JohnNtirintis&theme=2077)   
 
-
+[![An image of @johnntirintis's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/johnntirintis)](https://holopin.io/@johnntirintis)
 
 <h1>Socials</h1>
-
-
 <a href="https://www.linkedin.com/in/ioannis-panagiotis-ntirintis/" target="_blank"> 
     Linkedin
 </a> 
