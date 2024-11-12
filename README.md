@@ -9,10 +9,8 @@
 
 <!--[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JohnNtirintis)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JohnNtirintis&theme=dark)](https://git.io/streak-stats)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JohnNtirintis&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JohnNtirintis&theme=2077)   
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JohnNtirintis&theme=2077) <br/>
+![Metrics](/github-metrics.svg) 
 
 [![An image of @johnntirintis's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/johnntirintis)](https://holopin.io/@johnntirintis)
 
