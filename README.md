@@ -1,7 +1,7 @@
 
 <div align="center">
   <h2>About me:</h2>
-  <p>I'm currently working as a Junior .NET Software Engineer at Inform, where I specialize in back-end development using technologies like C#, VB.NET, SQL, .NET, and ASP.NET.</p>
+  <p>I'm currently working as a Software Engineer at Profile Software, where I specialize in development using technologies such as C#, VB/VB.NET, SQL, .NET/.NET Framework, and ASP.NET.</p>
   <p>I'm interested in contributing to open source projects.</p>
   <p>Beyond coding, I like Philosophy, History, and Finance.</p>
   <p>A huge fan of Motorsports and Sim Racing.</p>
